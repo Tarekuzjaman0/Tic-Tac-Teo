@@ -16,9 +16,10 @@ A **modern, responsive, and intelligent Tic Tac Toe game** built using **Python 
 
 ---
 
-## 🖥️ Screenshot
+## 📸 Screenshots
 
-_(Add a screenshot of the game UI here after running it.)_
+![Tic-Tac-Toe Screenshot](images/tic-tac-toe-screenshot.png)
+
 
 ---
 
